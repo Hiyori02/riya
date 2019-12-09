@@ -1,0 +1,72 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://riya24.000webhostapp.com" resolutions="1x" timestamp="1575896872393">
+  <folder name="images">
+    <file name="apple store,ios,ios 13,ios13,ipad os,ui,iphone os,1575941.png" crc="4140829029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_017870_128.png" crc="82543697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_017880_128.png" crc="333748420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_016470_128.png" crc="4001892001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_062470_128.png" crc="3777324621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anihonetwallpaper11664.jpg" crc="3963542365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="icon_006310_128.png" crc="314872120" seo="true" ref="素材集">
+      <caption webpage="素材集" alt=""/>
+    </file>
+    <file name="icon_002630_128.png" crc="4033552277" seo="true" ref="素材集">
+      <caption webpage="素材集" alt=""/>
+    </file>
+    <file name="icon_045940_128.png" crc="177892444" seo="true" ref="素材集">
+      <caption webpage="素材集" alt=""/>
+    </file>
+    <file name="icon_016590_128.png" crc="4148337644" seo="true" ref="素材集">
+      <caption webpage="素材集" alt=""/>
+    </file>
+    <file name="icon_058770_128.png" crc="4238028272" seo="true" ref="素材集">
+      <caption webpage="素材集" alt=""/>
+    </file>
+    <file name="icon_045810_128.png" crc="321844563" seo="true" ref="素材集">
+      <caption webpage="素材集" alt=""/>
+    </file>
+    <file name="icon_045800_128.png" crc="4007739710" seo="true" ref="素材集">
+      <caption webpage="素材集" alt=""/>
+    </file>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3872529542" ref="index"/>
+    <file name="nomq_index.css" crc="3798626130" ref="index"/>
+    <file name="___.css" crc="330061011" ref="素材集"/>
+    <file name="adobe.css" crc="4095554825" ref="adobe"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:素材集:adobe"/>
+    <file name="museutils.js" crc="3939489907" ref="index:素材集:adobe"/>
+    <file name="whatinput.js" crc="86476730" ref="index:素材集:adobe"/>
+    <file name="museconfig.js" crc="128606099" ref="index:素材集:adobe"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:素材集:adobe"/>
+    <file name="require.js" crc="4177726516" ref="index:素材集:adobe"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:素材集:adobe"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:素材集:adobe"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4025205703" seo="true" mt="1575896860542" redirect="true"/>
+  <file name="素材集.html" crc="104887339" seo="true" mt="1575894789727" redirect="true"/>
+  <file name="adobe.html" crc="148869694" seo="true" mt="1575894894641" redirect="true"/>
+</manifest>
